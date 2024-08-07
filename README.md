@@ -16,3 +16,6 @@ Required Python packages: requests, beautifulsoup4, python-dotenv, smtplib, ssl,
 <h4>Install Dependencies:</h4>
 pip install requests beautifulsoup4 python-dotenv  
 
+<h4>Setup .env File</h4>  
+sudo cp example.env .env  
+Enter your own details. Note the format of HEADERS_AND_TAGS. It is a list of dictionaries, where Title is the Table Heading, and Tags will be the total of all entries with that Tag for the defined period.
