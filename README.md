@@ -20,5 +20,6 @@ pip install requests beautifulsoup4 python-dotenv
 sudo cp example.env .env<br>
 Enter your own details in .env.<br> Note the format of HEADERS_AND_TAGS. It is a list of dictionaries, where Title is the Table Heading, and Tags will be the total of all entries with that Tag for the defined period.<br>
 Screenshot:<br>
-([Capture.JPG](https://github.com/j37hr0/Fireflyiii_TagReport/blob/main/Capture.JPG?raw=true))
+<img src="./Capture.JPG">
+
 
