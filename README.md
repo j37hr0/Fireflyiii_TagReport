@@ -18,4 +18,7 @@ pip install requests beautifulsoup4 python-dotenv
 
 <h4>Setup .env File</h4>  
 sudo cp example.env .env<br>
-Enter your own details in .env.<br> Note the format of HEADERS_AND_TAGS. It is a list of dictionaries, where Title is the Table Heading, and Tags will be the total of all entries with that Tag for the defined period.
+Enter your own details in .env.<br> Note the format of HEADERS_AND_TAGS. It is a list of dictionaries, where Title is the Table Heading, and Tags will be the total of all entries with that Tag for the defined period.<br>
+Screenshot:<br>
+![image](https://github.com/user-attachments/assets/b1eaf32e-0e2c-406a-ab99-97600d50d3a0)
+
